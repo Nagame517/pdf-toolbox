@@ -1,0 +1,9 @@
+{
+  "name": "PDF TOOLBOX",
+  "short_name": "PDF TOOLBOX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#c52e48"
+}
